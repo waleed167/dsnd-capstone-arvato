@@ -25,7 +25,7 @@ Arvato Project Workbook: jupyter notebook file containing code of the project
 
 ## 4.Summary of Results
 
-see link of blog and repostory: 
+see link of blog : https://github.com/waleed167/Blog.git 
 
 ## 5.Licenses and Acknowledgements
 
